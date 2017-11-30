@@ -1,9 +1,9 @@
 #ifndef Demo_codeObfuscation_h
 #define Demo_codeObfuscation_h
 //confuse string at date
-#define username upJQgekFemdchgxm
-#define password QXSPdAlJsbmrmhrF
-#define sharedTestCodeConfusionTool wnEBEDgGZsoevfqN
-#define setCustomData bfBPvHIckHHdWpsD
-#define dataInfo itRdcbmeFqWaUeuT
+#define username PzDIDKpgyBuZizTO
+#define password zEyRyJaXormwGjYH
+#define sharedTestCodeConfusionTool zZxtRVZIEthSGSNp
+#define setCustomData MvhxJMtetrpFPqdK
+#define dataInfo uKRsoUkQXGgTSSfn
 #endif

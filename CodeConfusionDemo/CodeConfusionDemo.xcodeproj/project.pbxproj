@@ -13,7 +13,6 @@
 		36B0D5011F0B628B00CC46D0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 36B0D4FF1F0B628B00CC46D0 /* Main.storyboard */; };
 		36B0D5031F0B628B00CC46D0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 36B0D5021F0B628B00CC46D0 /* Assets.xcassets */; };
 		36B0D5061F0B628B00CC46D0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 36B0D5041F0B628B00CC46D0 /* LaunchScreen.storyboard */; };
-		36B0D5161F0B639D00CC46D0 /* ReadMe.txt in Resources */ = {isa = PBXBuildFile; fileRef = 36B0D5151F0B639D00CC46D0 /* ReadMe.txt */; };
 		36B0D51A1F0B67B600CC46D0 /* confuse.sh in Resources */ = {isa = PBXBuildFile; fileRef = 36B0D5181F0B67B600CC46D0 /* confuse.sh */; };
 		36B0D51B1F0B67B600CC46D0 /* func.list in Resources */ = {isa = PBXBuildFile; fileRef = 36B0D5191F0B67B600CC46D0 /* func.list */; };
 		36B0D5201F0B6B0B00CC46D0 /* TestCodeConfusionTool.m in Sources */ = {isa = PBXBuildFile; fileRef = 36B0D51F1F0B6B0B00CC46D0 /* TestCodeConfusionTool.m */; };
@@ -30,7 +29,6 @@
 		36B0D5021F0B628B00CC46D0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		36B0D5051F0B628B00CC46D0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		36B0D5071F0B628B00CC46D0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		36B0D5151F0B639D00CC46D0 /* ReadMe.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ReadMe.txt; sourceTree = "<group>"; };
 		36B0D5181F0B67B600CC46D0 /* confuse.sh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = confuse.sh; sourceTree = "<group>"; };
 		36B0D5191F0B67B600CC46D0 /* func.list */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = func.list; sourceTree = "<group>"; };
 		36B0D51C1F0B69D900CC46D0 /* codeObfuscation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = codeObfuscation.h; path = CodeConfusionDemo/codeObfuscation.h; sourceTree = "<group>"; };
@@ -81,7 +79,6 @@
 				36B0D5041F0B628B00CC46D0 /* LaunchScreen.storyboard */,
 				36B0D5071F0B628B00CC46D0 /* Info.plist */,
 				36B0D4F61F0B628B00CC46D0 /* Supporting Files */,
-				36B0D5151F0B639D00CC46D0 /* ReadMe.txt */,
 				36B0D51D1F0B69E300CC46D0 /* PrefixHeader.pch */,
 				36B0D51E1F0B6B0B00CC46D0 /* TestCodeConfusionTool.h */,
 				36B0D51F1F0B6B0B00CC46D0 /* TestCodeConfusionTool.m */,
@@ -160,7 +157,6 @@
 				36B0D5061F0B628B00CC46D0 /* LaunchScreen.storyboard in Resources */,
 				36B0D5031F0B628B00CC46D0 /* Assets.xcassets in Resources */,
 				36B0D5011F0B628B00CC46D0 /* Main.storyboard in Resources */,
-				36B0D5161F0B639D00CC46D0 /* ReadMe.txt in Resources */,
 				36B0D51A1F0B67B600CC46D0 /* confuse.sh in Resources */,
 				36B0D51B1F0B67B600CC46D0 /* func.list in Resources */,
 			);
@@ -355,6 +351,7 @@
 				36B0D50C1F0B628B00CC46D0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
